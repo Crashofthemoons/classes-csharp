@@ -31,27 +31,27 @@ namespace classes
         {
             Company ButtsIncorporated = new Company() {
                 FoundingDate = DateTime.Now,
-                CompanyName = "Toots Inc"
+                CompanyName = "Boots Inc"
             };
 
             Employee Tim = new Employee() {
                 FirstName = "Tiny",
                 LastName = "Tim",
-                Title = "Toots Sniffer",
+                Title = "Boot Sniffer",
                 StartDate = DateTime.Now,
             };
 
             Employee Brett = new Employee() {
                 FirstName = "Little Boy",
                 LastName = "Brett",
-                Title = "Sphincter Inspector",
+                Title = "Design Inspector",
                 StartDate = DateTime.Now,
             };
 
             Employee Jordy = new Employee() {
                 FirstName = "Jordy",
                 LastName = "LaDoody",
-                Title = "Intestinal Cleaner",
+                Title = "Boot Cleaner",
                 StartDate = DateTime.Now,
             };
 
